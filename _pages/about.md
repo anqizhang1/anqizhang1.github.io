@@ -13,9 +13,9 @@ I am a PhD candidate at J.Mack Robinson College of Business, Georgia State Unive
 Education
 ------
 
-* 2021- Now      Doctoral candidate, Georgia State University
-* 2019-2020      M.S. in Business Analytics, University of Michigan - Dearborn
-* 2006-2010      Bachelor in International Tourism Management, Macau University of Science and Technology, Macau SAR, China
+* 2021- Now,      Doctoral candidate, Georgia State University
+* 2019-2020,      M.S. in Business Analytics, University of Michigan - Dearborn
+* 2006-2010,      Bachelor in International Tourism Management, Macau University of Science and Technology, Macau SAR, China
 
 
 Research Interest
