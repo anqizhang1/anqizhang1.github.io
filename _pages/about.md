@@ -24,8 +24,6 @@ Research Interest
 AI, Information Systems in Healthcare
 
 
-
-
 Working Paper
 ------
 1. TBA
