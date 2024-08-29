@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Anqi Zhang's personal websites"
+title: "Anqi ZHANG (张安旗)"
 author_profile: true
 redirect_from: 
   - /about/
