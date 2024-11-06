@@ -13,8 +13,8 @@ I am a PhD candidate at J.Mack Robinson College of Business, Georgia State Unive
 Education
 ------
 
-* 2021- Now,      Doctoral candidate, Georgia State University
-* 2019-2020,      M.S. in Business Analytics, University of Michigan - Dearborn
+* 2021- Now,      Doctoral candidate, Georgia State University, U.S.
+* 2019-2020,      M.S. in Business Analytics, University of Michigan - Dearborn, U.S.
 * 2013-2015,      MBA, University of Saint Joseph, Macau SAR, China
 * 2006-2010,      Bachelor in International Tourism Management,
                   Macau University of Science and Technology, Macau SAR, China
@@ -23,7 +23,7 @@ Education
 Research Interest
 ------
 
-AI, Information Systems in Healthcare
+AI automation in Business, Future of work, Information Systems in Healthcare
 
 
 Working Paper
