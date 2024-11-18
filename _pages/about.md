@@ -33,7 +33,7 @@ Working Paper
 Conference Papers and Presentations
 ------
 
-1. Algorithmic Fairness in Prediction Readmission for Diabetic Patients, (Workshop on Information Technologies and Systems 2024 Thailand)
+1. Algorithmic Fairness in Predicting Readmission for Diabetic Patients, (Workshop on Information Technologies and Systems 2024 Thailand)
 2. The Effect of Telehealth for Psychiatric and Substance Use on U.S. Hospital Utilization, with Aaron Baird, Joseph Buckman, and Yusen Xia 
  (_AOM 2022 Health Care Management Professional Development Workshop_), August 2022
 
