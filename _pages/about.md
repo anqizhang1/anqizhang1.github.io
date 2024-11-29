@@ -23,7 +23,7 @@ Education
 Research Interest
 ------
 
-Robots, AI automation in Business, Future of work, Information Systems in Healthcare
+Human-Robot Interaction, AI automation in Business, Information Systems in Healthcare
 
 
 Working Paper
