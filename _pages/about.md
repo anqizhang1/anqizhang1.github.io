@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 I am a PhD candidate at J.Mack Robinson College of Business, Georgia State University
-
+Email: azhang13@gsu.edu
+Phone: +1(470)815-5010
 
 Education
 ------
@@ -42,12 +43,16 @@ Conference Papers and Presentations
 
 Service Activities
 ------
-Peer Review
+Peer Reviews
 
 * Conferences
   * International Conference on Information Systems (ICIS) 2024
   * Pacific Asia Conference on Information Systems (PACIS) 2024
 
-
+Teaching Experience
+------
+Georgia State University
+* CIS3300: System Analysis (Undergraduate)
+  * Spring 2025, 4.2/5 
 
 
