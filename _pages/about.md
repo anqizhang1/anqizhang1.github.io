@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at J.Mack Robinson College of Business, Georgia State University  
-Email: azhang13@gsu.edu. 
-Phone: +1(470)815-5010. 
+I am a PhD candidate at J.Mack Robinson College of Business, Georgia State University  <br />
+Email: azhang13@gsu.edu <br />
+Phone: +1(470)815-5010 <br />
 
 Education
 ------
