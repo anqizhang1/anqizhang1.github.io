@@ -34,7 +34,7 @@ Working Paper
 Conference Papers and Presentations
 ------
 
-1. Service Robot, Automated Interaction, and Customers’ Responses, with Xinyu Fu, and Likoebe Maruping, _(POMS)_, May 2025 
+1. Service Robot, Automated Interaction, and Customers’ Responses, with Xinyu Fu, and Likoebe Maruping, _ Production and Operations Management 35th Annual Conference 2025 (POMS)_, May 8-12, 2025 
 2. Algorithmic Fairness in Predicting Hospital Readmissions Among Diabetic Patients, _Workshop on Information Technologies and Systems (WITS 2024)_, December 2024
 3. The Effect of Telehealth for Psychiatric and Substance Use on U.S. Hospital Utilization, with Aaron Baird, Joseph Buckman, and Yusen Xia 
  (_AOM 2022 Health Care Management Professional Development Workshop_), August 2022
