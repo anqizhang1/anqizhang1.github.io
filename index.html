@@ -890,6 +890,30 @@ body::after{
   letter-spacing:0.18em;
 }
 
+/* ============ MORSE BAR ============ */
+.morse-bar{
+  position:relative;
+  z-index:2;
+  width:100%;
+  overflow:hidden;
+  padding:14px 0;
+  border-top:1px solid rgba(201,190,159,0.3);
+  background:rgba(226,214,182,0.25);
+}
+.morse-repeat{
+  display:block;
+  white-space:nowrap;
+  font-family:'Cormorant Garamond', serif;
+  font-size:13px;
+  letter-spacing:0.38em;
+  color:var(--ink-faint);
+  animation: morse-scroll 40s linear infinite;
+}
+@keyframes morse-scroll{
+  from{ transform: translateX(0); }
+  to{ transform: translateX(-50%); }
+}
+
 /* ============ FADE IN ON SCROLL ============ */
 .fade-in{
   opacity:0;
@@ -1189,9 +1213,9 @@ body::after{
       <span class="quote-mark">师</span>
       <h3>傳道 · 授業 · 解惑</h3>
       <p>
-        My teaching draws on the three tenets articulated by Han Yu (768 to 824 CE) in his essay "Discourse on Teachers": to transmit the Way, to impart expertise, and to resolve doubts. 
-        I treat each tenet as a distinct posture toward the student. The first asks me to expose students to wider habits of attention, especially the discipline of asking what would have to be observed for an estimate to be "wrong". 
-        The second asks me to serve as ferryman, accompanying students from familiar shores to those just beyond their reach, and at times only pointing across rather than carrying them over. 
+        My teaching draws on the three tenets articulated by Han Yu (768 to 824 CE) in his essay "Discourse on Teachers": to transmit the Way, to impart expertise, and to resolve doubts.
+        I treat each tenet as a distinct posture toward the student. The first asks me to expose students to wider habits of attention, especially the discipline of asking what would have to be observed for an estimate to be "wrong".
+        The second asks me to serve as ferryman, accompanying students from familiar shores to those just beyond their reach, and at times only pointing across rather than carrying them over.
         The third asks me to refuse presupposition, to meet each question at the place curiosity actually begins.
       </p>
       <p>
@@ -1203,7 +1227,7 @@ body::after{
       <li class="course">
         <div class="course-code">CIS 3300</div>
         <div class="course-title">System Analysis</div>
-        <div class="course-description">On the craft of turning ambiguous business problems into specifications that a system can be built from. 
+        <div class="course-description">On the craft of turning ambiguous business problems into specifications that a system can be built from.
           The course covers requirements elicitation, process and data modeling, and the systems development life cycle, with an emphasis on the dialogue between analyst and stakeholder as its own form of inquiry.</div>
         <div class="course-role">Instructor of Record · Spring 2025 · Undergraduate IS Core · Course Evaluation 4.2 / 5.0</div>
       </li>
@@ -1308,6 +1332,11 @@ body::after{
     <div class="left">© 2026 Anqi Zhang. All rights reserved.</div>
   </footer>
 </section>
+
+<!-- ============ MORSE BAR ============ -->
+<div class="morse-bar" aria-hidden="true">
+  <span class="morse-repeat">.--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. --- .--. ---</span>
+</div>
 
 <script>
 // Fade-in on scroll
